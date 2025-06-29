@@ -66,6 +66,8 @@
 
 <h3>📊 GitHub Stats:</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-singh78&show_icons=true&locale=en&layout=compact" alt="" /></p>
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aman-singh78&show_icons=true&locale=en" alt="aman-singh78" />
 </p>
