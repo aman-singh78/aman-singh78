@@ -1,5 +1,5 @@
 ![logo](https://github.com/Deepak-Melkani/Deepak-Melkani/blob/main/gitGif.gif)
-<h1 align="center">Hi 👋, I'm Aman Singh Thapa</h1>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi,I'm Aman Singh Thapa!</h2>
 <h3 align="center">A passionate Developer from India</h3>
 
 
@@ -13,6 +13,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Lifelong+Learner" />
 </p>
 
+
+---
+
+### 🧠 About Me
 
 - 🌱 I’m currently learning **Web Development**  
 - 💬 Ask me about **React, Node.js, and DSA**  
@@ -29,7 +33,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🧰 Tech Stack</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
