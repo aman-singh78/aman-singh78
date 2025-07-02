@@ -2,7 +2,17 @@
 <h1 align="center">Hi 👋, I'm Aman Singh Thapa</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRocXpyOXRicmUwcGlyc3k0NmE2ZGsxYmw5Y3E4MjUweTkwcjVkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+
+
+<p>🚀 Crafting Clean Code & Real-World Projects with Passion and Precision &nbsp </a><img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="30"></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Full-Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Tech+Explorer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Lifelong+Learner" />
+</p>
+
 
 - 🌱 I’m currently learning **Web Development**  
 - 💬 Ask me about **React, Node.js, and DSA**  
