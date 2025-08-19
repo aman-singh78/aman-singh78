@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Tech+Explorer" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Problem+Solver" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Lifelong+Learner" />
-</p>
+</p> 
 
 
 ---
