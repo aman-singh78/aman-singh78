@@ -1,4 +1,8 @@
-![logo](https://github.com/Deepak-Melkani/Deepak-Melkani/blob/main/gitGif.gif)
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="header image" width="800" height="300" />
+</p>
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi,I'm Aman Singh Thapa!</h2>
 <h3 align="center">A passionate Developer from India</h3>
 
